@@ -1,7 +1,7 @@
 # Weather26
 Weather26 is an Patched Version Of Windows 8 (Developer Preview) Weather.
 # Requirements
-You Need Windows XP (With Supermium) Until Windows 10. Because Weather is just a HTML Website.
+You Need Windows XP (With Supermium) Until Windows 10 Because Weather is just a HTML Website.
 # What's Working
 N/A
 # What's Not Working
