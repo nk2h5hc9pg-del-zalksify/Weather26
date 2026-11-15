@@ -5,8 +5,9 @@ Unknown
 # What's Not Working
 Location (You have to add City or Town Manually)
 # What's Added
-Alot Of City's
-Music
+1. 130+ City's Were Added!
+2. Live Title Works Now (Unsure But It's Beta)
+3. Still No Native Appx Support
 # Note
 I do not own this project whatsoever My friend (Delex-idk) made Weather26 itself.
 # Credits
