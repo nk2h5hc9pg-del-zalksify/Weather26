@@ -2,6 +2,7 @@
 Weather26 is an Patched Version Of Windows 8 (Developer Preview) Weather.
 # Requirements
 For Metro:You Need Windows 8 Developer Preview Until Windows 10 to Use Windows26. (We Do NOT recommend Windows 11)
+
 For HTML:You Need Windows XP (With Supermium) Until Windows 11.
 Basically Weather From Windows 8 Developer Preview is Just an App running Internet Explorer HTML.
 # What's Working
