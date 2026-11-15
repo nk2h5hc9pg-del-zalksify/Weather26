@@ -12,9 +12,11 @@ Location (You have to add City or Town Manually)
 I do not own this project whatsoever My friend (Delex-idk) made Weather26 itself.
 # Credits
 Delex_Idk - Creator Of Weather26
-# Current-Stage
-It's in Beta Stage so there will be bugs and issues.
-# From Scratch
+# FAQ (Questions)
+* What Stage Is it Currently?
+  Weather26 is in Beta-Stage.
+  
+# Appx Issue
 Currently Weather26 has no native appx itself because we don't know how to build appx since its too hard for us we will guide you through how to make Your Own Weather26
 
 THIS GUIDE IS ONLY FOR WINDOWS 8 DEVELOPER PREVIEW IF YOU USE WINDOWS 11 OR NEWER U CAN REPLACE THE FOLDER ANYTIME BUT DO NOT CHANGE ANYTHING CLICK ONLY DEFAULTHOST AND THEN IT OPEN INSIDE BROWSER
