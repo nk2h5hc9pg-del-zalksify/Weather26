@@ -4,6 +4,9 @@ Weather26 is an Patched Version Of Windows 8 (Developer Preview) Weather.
 Unknown
 # What's Not Working
 Location (You have to add City or Town Manually)
+# What's Added
+Alot Of City's
+Music
 # Note
 I do not own this project whatsoever My friend (Delex-idk) made Weather26 itself.
 # Credits
