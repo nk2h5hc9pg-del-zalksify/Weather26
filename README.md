@@ -4,7 +4,7 @@ Weather26 is an Patched Version Of Windows 8 (Developer Preview) Weather.
 Unknown
 # What's Not Working
 Location (You have to add City or Town Manually)
-# What's Added
+# What's New?
 1. 130+ City's Were Added!
 2. Live Title Works Now (Unsure But It's Beta)
 3. Still No Native Appx Support
@@ -12,12 +12,9 @@ Location (You have to add City or Town Manually)
 I do not own this project whatsoever My friend (Delex-idk) made Weather26 itself.
 # Credits
 Delex_Idk - Creator Of Weather26
-# FAQ (Questions)
-* What Stage Is it Currently?
-  Weather26 is in Beta-Stage.
-  
-# Appx Issue
-Currently Weather26 has no native appx itself because we don't know how to build appx since its too hard for us we will guide you through how to make Your Own Weather26
+# Appx Support
+Currently Weather26 has no appx because we don't know how to make one so Weather26 will likely get appx in 2027 or 2028 We don't know.
+# Build Weather26 From Scratch.
 
 THIS GUIDE IS ONLY FOR WINDOWS 8 DEVELOPER PREVIEW IF YOU USE WINDOWS 11 OR NEWER U CAN REPLACE THE FOLDER ANYTIME BUT DO NOT CHANGE ANYTHING CLICK ONLY DEFAULTHOST AND THEN IT OPEN INSIDE BROWSER
 
