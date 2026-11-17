@@ -10,6 +10,7 @@ Location (You have to add City or Town Manually)
 1. There is a chance Weather26 will break itself.
 2. It Randomly Opens Store in 8 Developer Preview (For some reason?)
 # What's New?
+Version: Beta_v2.0
 1. Translate
 2. OOBE
 3. Still No Appx Release.
