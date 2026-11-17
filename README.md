@@ -10,10 +10,14 @@ Location (You have to add City or Town Manually)
 1. There is a chance Weather26 will break itself.
 2. It Randomly Opens Store in 8 Developer Preview (For some reason?)
 # What's New?
+1. Translate
+2. OOBE
+3. Still No Appx Release.
+# Previous Version (Archive)
 Version: Beta_v1.5
 1. 130+ City's Were Added!
 2. Live Title Works Now (Unsure But It's Beta)
-3. Still No Native Appx Support
+3. No Appx Release.
 # Project Notes
 I do not own this project whatsoever My friend (Delex-idk) made Weather26 itself.
 # Credits
